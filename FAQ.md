@@ -17,7 +17,7 @@ FlexASIO's behaviour, features, limitations, and quirks are ultimately a
 reflection of PortAudio's.
 
 **Note:** FlexASIO is not affiliated with PortAudio in any way. It is merely
-using it as a library.
+using it as a library. a
 
 ## Where is the control panel?
 
